@@ -1,8 +1,6 @@
-# Teste Programador PHP #
+# Laravel API REST #
 
-Para auxiliar a documentação da API pode ser acessada [clicando aqui](http://acapu.com.br/atelie/doc/)
 
-O teste foi desenvolvido utilizando Laravel!
 
 O arquivo __.env__ possui as configurações do banco de dados, caso precise rodar o script manualmente por favor acesse o arquivo database/db.sql
 
